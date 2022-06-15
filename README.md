@@ -2,8 +2,6 @@
 xdc-smartcontract-xrc-777
 
 
-# XRC 777
-
 This set of interfaces and contracts are all related to the [ERC777 token standard](https://eips.ethereum.org/EIPS/eip-777).
 
 The token behavior itself is implemented in the core contracts: {IERC777}, {ERC777}.
